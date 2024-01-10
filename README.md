@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🌱 I’m currently learning C# and .NET
+### 🌱 I’m currently learning HTML, CSS, JavaScript
 <!--
 **feliciamuller/feliciamuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
