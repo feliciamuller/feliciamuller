@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🌱 I’m currently learning ASP.NET
+### 🌱 I’m currently learning Azure AI Services and Machine Learning
 <!--
 **feliciamuller/feliciamuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
